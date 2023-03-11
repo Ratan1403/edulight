@@ -1,2 +1,2 @@
-# edulight
+# Calculator 
 Educational website 
